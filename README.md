@@ -1,1 +1,1 @@
-# Jp-Kr-OCR-translator-for-travel-
+# Jp-Kr OCR translator(for travel)
