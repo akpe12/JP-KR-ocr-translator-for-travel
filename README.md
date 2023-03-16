@@ -13,3 +13,7 @@
 <img width="935" alt="스크린샷 2023-03-16 오후 3 57 54" src="https://user-images.githubusercontent.com/77143331/225591180-8b90d645-6c1b-48f1-8770-54dbc90effae.png">
 - 테스트 데이터(400개)
 <img width="575" alt="스크린샷 2023-03-16 오후 7 41 10" src="https://user-images.githubusercontent.com/77143331/225592661-c2133a23-f4ba-4936-93e0-af6423c925d0.png">
+
+# 모델
+- 최고 성능 번역 모델
+https://huggingface.co/figuringoutmine/translator-for-travel-jp-to-kr
