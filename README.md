@@ -8,6 +8,8 @@
 <a href='https://www.youtube.com/watch?v=pfFJb5qGbL8' target='_blank'> 모델 시연 영상 </a>
 <a href='https://www.youtube.com/watch?v=pfFJb5qGbL8'> <img src="https://user-images.githubusercontent.com/77143331/225528850-d2a75fa6-7baf-49d4-8208-f55ab55beaa6.png"> </a>
 
+<img width="741" alt="스크린샷 2023-03-23 오전 11 15 20" src="https://user-images.githubusercontent.com/77143331/227081971-ab824fa9-f813-4c3a-b3bd-fe9ef6bb406c.png">
+
 # 성능 평가
 - 평가 방법: BLUE score(1-gram)
 <img width="935" alt="스크린샷 2023-03-16 오후 3 57 54" src="https://user-images.githubusercontent.com/77143331/225591180-8b90d645-6c1b-48f1-8770-54dbc90effae.png">
