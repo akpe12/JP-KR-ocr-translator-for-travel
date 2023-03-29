@@ -44,3 +44,5 @@ output = model.generate(**embeddings)[0, 1:-1]
 
 trg_tokenizer.decode(output.cpu())
 ```
+# Dataset
+<a href='https://www.kaggle.com/datasets/chanwooyang0/jptokr-travel-dataset' target='_blank'> Go to dataset </a>
