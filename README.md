@@ -1,5 +1,7 @@
-# JP-KR OCR translator(for travel)
+# JP to KR OCR translator(for travel)
 일본 여행 시에 쓰일 수 있도록 학습된 일한 이미지 번역기입니다. 코로나 바이러스에 대한 방역 지침이 완화되면서 해외 여행을 하는 여행객들이 증가하고 있는 추세입니다. 그 중에서도, 일본은 한국인이 가장 많이 방문하는 해외 여행지 1순위였습니다. 해외 여행을 하다보면 대중교통이나 식당 등에서 언어의 장벽을 느끼게 되는 경우가 발생합니다. 이럴 때, 이미지 번역기를 사용하지만 성능에 아쉬움을 겪곤 했습니다. 이러한 아쉬움을 해소하고 싶었고, 한국의 여행객들이 언어의 장벽을 느끼지 않는 여행을 할 수 있도록 돕고자 일본 여행에 특화된 일한 이미지 번역 모델을 만들게 되었습니다.
+
+This is a JP to KR ocr translator trained with daily data. So you can use this model when you travel to Japan. More travelers travel overseas as quarantine guidelines for COVID-19 eases. Among many travel destinations, Japan was the most popular country for Korean. When you travel abroad, you may feel language barriers in public transportation or restaurants. In such situations, you tend to use ocr translators, like Google lens, but you may feel disappointed with the performance sometimes. For relieving this kind of situations, and for helping Korean tourists, we made a translator specialized for traveling Japan.
 
 <img width="617" alt="스크린샷 2023-03-16 오후 8 03 51" src="https://user-images.githubusercontent.com/77143331/225598211-5a6a9fde-faed-4d8b-9c57-41f9027a15f1.png">
 사진 출처: https://www.ytn.co.kr/_ln/0103_202301311118041696
@@ -16,7 +18,7 @@
 - Test data(400개)
 <img width="575" alt="스크린샷 2023-03-16 오후 7 41 10" src="https://user-images.githubusercontent.com/77143331/225592661-c2133a23-f4ba-4936-93e0-af6423c925d0.png">
 
-# 모델
+# Model
 - Best performance model
 https://huggingface.co/figuringoutmine/translator-for-travel-jp-to-kr
 - Usage
