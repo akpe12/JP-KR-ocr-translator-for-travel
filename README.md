@@ -4,20 +4,20 @@
 <img width="617" alt="스크린샷 2023-03-16 오후 8 03 51" src="https://user-images.githubusercontent.com/77143331/225598211-5a6a9fde-faed-4d8b-9c57-41f9027a15f1.png">
 사진 출처: https://www.ytn.co.kr/_ln/0103_202301311118041696
 
-# 일한 이미지 번역기
-<a href='https://www.youtube.com/watch?v=pfFJb5qGbL8' target='_blank'> 모델 시연 영상 </a>
+# JP to KR ocr translator
+<a href='https://www.youtube.com/watch?v=pfFJb5qGbL8' target='_blank'> Watch demo video </a>
 <a href='https://www.youtube.com/watch?v=pfFJb5qGbL8'> <img src="https://user-images.githubusercontent.com/77143331/225528850-d2a75fa6-7baf-49d4-8208-f55ab55beaa6.png"> </a>
 
 <img width="741" alt="스크린샷 2023-03-23 오전 11 15 20" src="https://user-images.githubusercontent.com/77143331/227081971-ab824fa9-f813-4c3a-b3bd-fe9ef6bb406c.png">
 
-# 성능 평가
-- 평가 방법: BLUE score(1-gram)
+# Evaluation
+- Metric: BLUE score(1-gram)
 <img width="935" alt="스크린샷 2023-03-16 오후 3 57 54" src="https://user-images.githubusercontent.com/77143331/225591180-8b90d645-6c1b-48f1-8770-54dbc90effae.png">
-- 테스트 데이터(400개)
+- Test data(400개)
 <img width="575" alt="스크린샷 2023-03-16 오후 7 41 10" src="https://user-images.githubusercontent.com/77143331/225592661-c2133a23-f4ba-4936-93e0-af6423c925d0.png">
 
 # 모델
-- 최고 성능 번역 모델
+- Best performance model
 https://huggingface.co/figuringoutmine/translator-for-travel-jp-to-kr
 - Usage
 ```
